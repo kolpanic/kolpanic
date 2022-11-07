@@ -4,4 +4,4 @@ I'm also a co-founder—and co-runner for its first ten years—of [tacow / Toro
 
 I have a number open-source projects available [here on Github](https://github.com/kolpanic), including [ZipKit](https://github.com/kolpanic/ZipKit), an Objective–C framework for using PKZip archives on macOS and iOS.
 
-You can find me on [Twitter](https://twitter.com/kolpanic).
+You can find me on [Mastodon](https://mastodon.online/@kolpanic) or [Twitter](https://twitter.com/kolpanic).
